@@ -4,8 +4,8 @@
 	"description" : "Ce plugin a pour objectif d'aider la communication entre Devellopeur et Betatesteur par la creation de testcase",
 	"licence" : "AGPL",
 	"author" : "Michael Halbout",
-	"require" : "3.2",
-	"category" : "programmation",
+	"require" : "4.0",
+	"category" : "programming",
 	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","v4"],
  	"documentation" : "http://mika-nt28.github.io/Documentations/betatest/#language#",
 	"changelog" : "https://mika-nt28.github.io/Documentations/betatest/#language#/changelog"
